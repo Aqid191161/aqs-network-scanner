@@ -63,16 +63,16 @@ sudo apt install python3-pip
 
 ### clone repository
 ``` 
-https://github.com/Aqid191161/Aqsf-network-scanner.git
+git clone https://github.com/Aqid191161/aqs-network-scanner.git
 ``` 
 ### masuk folder
 ``` 
-cd Aqsf-network-scanner
+cd aqs-network-scanner
 ``` 
 ### buat virtual environment (venv)
 ```
-python3 -m venv Aqsf
-source Aqsf/bin/activate
+python3 -m venv aqs
+source aqs/bin/activate
 ```
 
 ### install pustaka
